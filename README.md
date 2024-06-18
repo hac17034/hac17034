@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hac17034
-- 👀 I’m interested in learning more about machine learning and FPGAs
+- 👀 I’m interested in learning more about embedded systems and FPGAs
 - 🌱 I’m currently learning how to become a better programmer/software engineer in general
 
 <!---
